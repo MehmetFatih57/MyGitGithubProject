@@ -4,5 +4,8 @@ public class AtmProject {
         //version1
         System.out.println("Nasiiiiiiiiiiiiil");
         //version2
+        System.out.println("Ne yaptin ? Ne yaptin ?");
+        //version3
+
     }
 }
