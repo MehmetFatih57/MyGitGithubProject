@@ -6,6 +6,8 @@ public class AtmProject {
         //version2
         System.out.println("Ne yaptin ? Ne yaptin ?");
         //version3
+        System.out.println("Ne mi yaptim ?");
+        //version4
 
     }
 }
