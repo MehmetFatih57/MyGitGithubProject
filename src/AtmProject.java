@@ -12,5 +12,7 @@ public class AtmProject {
         System.out.println("Mehmet_Fatih branchi kodlarini yazdi");
         //version mhmt_fth1
 
+        System.out.println("O gemi bir gun gelecek");
+        //mhmt_fth2
     }
 }
