@@ -14,5 +14,9 @@ public class AtmProject {
 
         System.out.println("O gemi bir gun gelecek");
         //mhmt_fth2
+
+        System.out.println();
+        //mhmt_fth3
+        System.out.println();
     }
 }
