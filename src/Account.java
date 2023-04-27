@@ -3,6 +3,7 @@ public class Account {
         System.out.println("Leyla gitti abi...");
         System.out.println("Leyla gitti abi... :(");
         System.out.println("Ismail  abi...");
+        System.out.println("O gemi bir gun gelecek abi...");
     }
     //mhmt_fth2
 }
